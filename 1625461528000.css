@@ -1,0 +1,35 @@
+@font-face {
+	font-family: Dream_ChangSongGB;
+	src: local('Dream_ChangSongGB'),
+		url('./fonts/233182746_1625461528000/Dream_ChangSongGB.woff2') format('woff2'),
+		url('./fonts/233182746_1625461528000/Dream_ChangSongGB.woff') format('woff'),
+		url('./fonts/233182746_1625461528000/Dream_ChangSongGB.ttf') format('truetype')
+}
+@font-face {
+	font-family: HYYiSongW;
+	src: local('HYYiSongW'),
+		url('./fonts/233182746_1625461528000/HYYiSongW.woff2') format('woff2'),
+		url('./fonts/233182746_1625461528000/HYYiSongW.woff') format('woff'),
+		url('./fonts/233182746_1625461528000/HYYiSongW.ttf') format('truetype')
+}
+@font-face {
+	font-family: fangzheng_xbsjt;
+	src: local('fangzheng_xbsjt'),
+		url('./fonts/233182746_1625461528000/fangzheng_xbsjt.woff2') format('woff2'),
+		url('./fonts/233182746_1625461528000/fangzheng_xbsjt.woff') format('woff'),
+		url('./fonts/233182746_1625461528000/fangzheng_xbsjt.ttf') format('truetype')
+}
+@font-face {
+	font-family: fangzheng_xhyjt;
+	src: local('fangzheng_xhyjt'),
+		url('./fonts/233182746_1625461528000/fangzheng_xhyjt.woff2') format('woff2'),
+		url('./fonts/233182746_1625461528000/fangzheng_xhyjt.woff') format('woff'),
+		url('./fonts/233182746_1625461528000/fangzheng_xhyjt.ttf') format('truetype')
+}
+@font-face {
+	font-family: fangzheng_fst;
+	src: local('fangzheng_fst'),
+		url('./fonts/233182746_1625461528000/fangzheng_fst.woff2') format('woff2'),
+		url('./fonts/233182746_1625461528000/fangzheng_fst.woff') format('woff'),
+		url('./fonts/233182746_1625461528000/fangzheng_fst.ttf') format('truetype')
+}
