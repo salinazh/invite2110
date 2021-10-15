@@ -17025,7 +17025,7 @@
                         p = r.layout,
                         f = r.version,
                         m = r.zoom,
-                        x = "./apis.map.qq.com/tools/routeplan/eword=" + u + "&epointx=" + l + "&epointy=" + s + "?referer=myapp&key=OB4BZ-D4W3U-B7VVO-4PJWW-6TKDJ-WPB77";
+                        x = "https://apis.map.qq.com/tools/routeplan/eword=" + u + "&epointx=" + l + "&epointy=" + s + "?referer=myapp&key=OB4BZ-D4W3U-B7VVO-4PJWW-6TKDJ-WPB77";
                     "customer" === p ? $(e).click(function() {
                         n()
                     }) : (0 == f && "default" == p || void 0 == f) && $(e).find(".go-here").click(function() {
