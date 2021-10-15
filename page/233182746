@@ -20440,7 +20440,7 @@
                     "name": "新文本9"
                 },
                 {
-                    "content": "北京五棵松饭店",
+                    "content": "凯里亚德酒店",
                     "css": {
                         "width": 257,
                         "height": 191,
@@ -20471,7 +20471,7 @@
                         "paddingRight": 0
                     },
                     "properties": {
-                        "address": "北京五棵松饭店",
+                        "address": "凯里亚德酒店(成都火车东站店) ",
                         "lat": 39.918306,
                         "lng": 116.273651,
                         "initType": 1,
@@ -20563,7 +20563,7 @@
                     "name": "形状12"
                 },
                 {
-                    "content": "<span style=\"display: block;margin-top: 0px;margin-bottom: 0px;color: inherit;-ms-word-wrap:break-word;word-wrap: break-word; -webkit-user-select: auto\">北京市海淀区西四环中路 19 号五棵松饭店</span>",
+                    "content": "<span style=\"display: block;margin-top: 0px;margin-bottom: 0px;color: inherit;-ms-word-wrap:break-word;word-wrap: break-word; -webkit-user-select: auto\">四川省成都市龙泉驿区悦来街59号 凯里亚德酒店</span>",
                     "css": {
                         "top": 317.9999999999999,
                         "left": 1,
