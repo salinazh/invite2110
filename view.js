@@ -2400,8 +2400,8 @@
     e.exports = {
         Parallax: "./lib/parallax/1.0.2/parallax.min.js",
         JWeixin: "./res.wx.qq.com/open/js/jweixin-1.3.2.js",
-        QQMap: "./map.qq.com/api/js?v=2.exp&callback=qqMapCallback&key=IN3BZ-DYZKV-VHJPZ-U3MJ2-HX3T2-LRFEF",
-        AMap: "./webapi.amap.com/maps?v=1.4.12&key=4fe3ab0a5b87e5bf8f222f780322f82a&plugin=AMap.Autocomplete,AMap.PlaceSearch,AMap.Geolocation,AMap.Geocoder",
+        QQMap: "https://map.qq.com/api/js?v=2.exp&callback=qqMapCallback&key=IN3BZ-DYZKV-VHJPZ-U3MJ2-HX3T2-LRFEF",
+        AMap: "https://webapi.amap.com/maps?v=1.4.12&key=4fe3ab0a5b87e5bf8f222f780322f82a&plugin=AMap.Autocomplete,AMap.PlaceSearch,AMap.Geolocation,AMap.Geocoder",
         SHA: "./lib/jsSHA/2.0.2/sha1.js",
         Chart: "./lib/Chart.js/1.0.2/Chart.min.js",
         sliders: "./lib/slidesjs/3.0.3/jquery.slides.min.js",
