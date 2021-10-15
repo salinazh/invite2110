@@ -12464,6 +12464,27 @@ html .word-art * {
     top: 16px;
     display: none;
 }
+
+.bgm-btn-wraper,.bgm-btn-wraper .bgm-btn {
+    position: absolute;
+    z-index: 200;
+    width: 30px;
+    height: 30px
+}
+
+.bgm-btn-wraper .bgm-btn {
+    right: 0;
+    top: 0;
+    border-radius: 15px;
+    background-image: url(./asset/bgmBtn-fbd2dc.svg);
+    background-size: contain;
+    background-repeat: no-repeat
+}
+
+.bgm-btn-wraper .bgm-btn.rotate {
+    -webkit-animation: rotating 1.2s linear infinite;
+    animation: rotating 1.2s linear infinite
+}
 .lrc-controller {
     position: absolute;
     font-size: 14px;
